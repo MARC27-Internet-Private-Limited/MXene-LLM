@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Colab Button -->
-  <a href="https://colab.research.google.com/github/yourusername/yourrepo/blob/main/path/to/notebook.ipynb">
+  <a href="https://colab.research.google.com/github/MARC27-Internet-Private-Limited/MXene-LLM/blob/main/MXene.ipynb">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab">
   </a>
   &nbsp;&nbsp;
