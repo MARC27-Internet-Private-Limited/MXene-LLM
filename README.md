@@ -14,7 +14,7 @@
   &nbsp;&nbsp;
   <!-- MARC27 Website Button -->
   <a href="https://research.marc27.com">
-    <img src="https://img.shields.io/static/v1?label=Visit&message=MARC27%20Website&color=0077B5&labelColor=555555&style=flat" alt="Visit MARC27 Website">
+    <img src="https://research.marc27.com/_app/immutable/assets/logo_marc27.B__kGcan.svg" alt="Visit MARC27 Website">
   </a>
 </div>
 
