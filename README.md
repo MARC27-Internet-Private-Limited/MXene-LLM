@@ -14,9 +14,10 @@
   &nbsp;&nbsp;
   <!-- MARC27 Website Button -->
   <a href="https://research.marc27.com">
-    <img src="<img src="https://img.shields.io/badge/Visit-MARC27_Website-0077B5?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAArlBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8EZPb1AAAAO3RSTlMABmKz7f2xYAVp0v7QZwNOovf1nkwCSKDy8J1GCH7n5XwUe+TjeRF24+F1Qdr49tZJAUfV/vPTRgA/xbNKQQAAAAFiS0dEAIgFHUgAAAAJcEhZcwAACxMAAAsTAQCanBgAAAAHdElNRQfkARoLNhzj8O6tAAAAaElEQVQI12NgYGRiBgFGBhYIg5WNnYOTi5uHF8Lg4xcQFBIWERUTlwAzJKWkZWTl5BUUlZRVgAxVNXUNTS1tHV09fQMgw9DIGASMTUzNzEEMC0sQsLK2sbWzBzIcHEHAydnF1Q3IAAMANFgHVRH3C7wAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjAtMDEtMjZUMTE6NTQ6MjgrMDA6MDCa10iHAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIwLTAxLTI2VDExOjU0OjI4KzAwOjAw64rwPwAAAFd6VFh0UmF3IHByb2ZpbGUgdHlwZSBpcHRjAAB4nOPyDAhxVigoyk/LzEnlUgADIwsuYwsTIxNLkxQDEyBEgDTDZAMjs1Qgy9jUyMTMxBzEB8uASKBKLgDqFxF08kI1lQAAAABJRU5ErkJggg==" alt="Visit MARC27 Website">
+    <img src="https://img.shields.io/badge/Visit-MARC27_Website-4285F4?style=flat-square" alt="Visit MARC27 Website">
   </a>
 </div>
+
 
 
 
